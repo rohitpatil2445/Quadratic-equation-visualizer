@@ -1,4 +1,3 @@
-# python-project
 # Quadratic Equation Visualizer
 
 An interactive web application built with **Streamlit** that visualizes quadratic equations in real time. Users can modify the coefficients of the equation using sliders and instantly see how the graph changes.
